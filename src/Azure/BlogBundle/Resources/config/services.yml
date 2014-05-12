@@ -1,0 +1,7 @@
+parameters:
+#    azure_blog.example.class: Azure\BlogBundle\Example
+
+services:
+#    azure_blog.example:
+#        class: %azure_blog.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

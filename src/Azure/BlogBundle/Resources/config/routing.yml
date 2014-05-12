@@ -1,0 +1,3 @@
+azure_blog:
+    resource: "@AzureBlogBundle/Controller"
+    type: annotation

@@ -1,0 +1,4 @@
+azure_blog:
+    resource: "@AzureBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
